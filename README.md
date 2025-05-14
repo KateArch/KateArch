@@ -1,7 +1,6 @@
-### Hi there 👋 I'm [Your Name]
+### Hi 👋 I'm Katerina
 
 - 🔭 **Working at**: Masterschool
-- 🌱 **Learning**: Python, SQL, etc.
+- 🌱 **Skills**: SQL, Tableau, Database Design
 - 📫 **Reach me**: katerina.arsh@gmail.com
 - 😄 **Pronouns**: She/Her
-- ⚡ **Fun fact**: I love hiking! 
